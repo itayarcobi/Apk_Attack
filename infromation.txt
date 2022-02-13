@@ -1,0 +1,504 @@
+
+Device Information: 
+VERSION.RELEASE : 11
+VERSION.INCREMENTAL : 7193139
+VERSION.SDK.NUMBER : 30
+BOARD : goldfish_x86
+Screen Width : 1080
+Screen Height : 2009
+BOOTLOADER : unknown
+BRAND : Android
+CPU_ABI : x86
+CPU_ABI2 : armeabi-v7a
+DISPLAY : sdk_phone_x86-userdebug 11 RSR1.210210.001.A1 7193139 dev-keys
+FINGERPRINT : Android/sdk_phone_x86/generic_x86:11/RSR1.210210.001.A1/7193139:userdebug/dev-keys
+HARDWARE : ranchu
+HOST : abfarm-east4-071
+ID : RSR1.210210.001.A1
+MANUFACTURER : unknown
+MODEL : Android SDK built for x86
+PRODUCT : sdk_phone_x86
+SERIAL : unknown
+TAGS : dev-keys
+TYPE : userdebug
+UNKNOWN : unknown
+USER : android-build
+ANDROID ID : 9871b1ca9e1afa38Installed apks in the Phone : 
+SourceAppDir :/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv/CtsShimPriv.apk
+
+AppName :com.android.cts.priv.ctsshim
+SourceAppDir :/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.corner
+SourceAppDir :/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.double
+SourceAppDir :/system/priv-app/TelephonyProvider/TelephonyProvider.apk
+
+AppName :com.android.providers.telephony
+SourceAppDir :/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk
+
+AppName :com.android.dynsystem
+SourceAppDir :/product/overlay/IconShapePebble/IconShapePebbleOverlay.apk
+
+AppName :com.android.theme.icon.pebble
+SourceAppDir :/system/priv-app/CalendarProvider/CalendarProvider.apk
+
+AppName :com.android.providers.calendar
+SourceAppDir :/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk
+
+AppName :com.android.providers.media
+SourceAppDir :/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk
+
+AppName :com.android.internal.systemui.navbar.gestural_wide_back
+SourceAppDir :/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
+
+AppName :com.android.wallpapercropper
+SourceAppDir :/product/overlay/IconShapeVessel/IconShapeVesselOverlay.apk
+
+AppName :com.android.theme.icon.vessel
+SourceAppDir :/product/overlay/AccentColorCinnamon/AccentColorCinnamonOverlay.apk
+
+AppName :com.android.theme.color.cinnamon
+SourceAppDir :/product/overlay/IconPackRoundedSystemUI/IconPackRoundedSystemUIOverlay.apk
+
+AppName :com.android.theme.icon_pack.rounded.systemui
+SourceAppDir :/product/overlay/IconShapeTaperedRect/IconShapeTaperedRectOverlay.apk
+
+AppName :com.android.theme.icon.taperedrect
+SourceAppDir :/system/priv-app/DocumentsUI/DocumentsUI.apk
+
+AppName :com.android.documentsui
+SourceAppDir :/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+
+AppName :com.android.externalstorage
+SourceAppDir :/system/app/HTMLViewer/HTMLViewer.apk
+
+AppName :com.android.htmlviewer
+SourceAppDir :/system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+
+AppName :com.android.companiondevicemanager
+SourceAppDir :/product/app/QuickSearchBox/QuickSearchBox.apk
+
+AppName :com.android.quicksearchbox
+SourceAppDir :/system/priv-app/MmsService/MmsService.apk
+
+AppName :com.android.mms.service
+SourceAppDir :/system/priv-app/DownloadProvider/DownloadProvider.apk
+
+AppName :com.android.providers.downloads
+SourceAppDir :/product/app/messaging/messaging.apk
+
+AppName :com.android.messaging
+SourceAppDir :/product/overlay/SystemUI__auto_generated_rro_product.apk
+
+AppName :com.android.systemui.auto_generated_rro_product__
+SourceAppDir :/product/overlay/IconPackRoundedAndroid/IconPackRoundedAndroidOverlay.apk
+
+AppName :com.android.theme.icon_pack.rounded.android
+SourceAppDir :/product/overlay/EmulatorTetheringConfigOverlay.apk
+
+AppName :com.android.networkstack.tethering.emulator
+SourceAppDir :/product/overlay/IconPackCircularThemePicker/IconPackCircularThemePickerOverlay.apk
+
+AppName :com.android.theme.icon_pack.circular.themepicker
+SourceAppDir :/product/overlay/GoogleWebViewOverlay.apk
+
+AppName :com.google.android.overlay.googlewebview
+SourceAppDir :/system/priv-app/TimeZoneUpdater/TimeZoneUpdater.apk
+
+AppName :com.android.timezone.updater
+SourceAppDir :/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+
+AppName :com.android.providers.downloads.ui
+SourceAppDir :/product/app/LicenseChecker/LicenseChecker.apk
+
+AppName :com.android.vending
+SourceAppDir :/system/app/PacProcessor/PacProcessor.apk
+
+AppName :com.android.pacprocessor
+SourceAppDir :/system/app/SimAppDialog/SimAppDialog.apk
+
+AppName :com.android.simappdialog
+SourceAppDir :/system/priv-app/NetworkStack/NetworkStack.apk
+
+AppName :com.android.networkstack
+SourceAppDir :/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.hole
+SourceAppDir :/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.tall
+SourceAppDir :/product/app/ModuleMetadata/ModuleMetadata.apk
+
+AppName :com.android.modulemetadata
+SourceAppDir :/system/app/CertInstaller/CertInstaller.apk
+
+AppName :com.android.certinstaller
+SourceAppDir :/product/overlay/AccentColorBlack/AccentColorBlackOverlay.apk
+
+AppName :com.android.theme.color.black
+SourceAppDir :/system_ext/priv-app/CarrierConfig/CarrierConfig.apk
+
+AppName :com.android.carrierconfig
+SourceAppDir :/product/overlay/AccentColorGreen/AccentColorGreenOverlay.apk
+
+AppName :com.android.theme.color.green
+SourceAppDir :/product/overlay/AccentColorOcean/AccentColorOceanOverlay.apk
+
+AppName :com.android.theme.color.ocean
+SourceAppDir :/product/overlay/AccentColorSpace/AccentColorSpaceOverlay.apk
+
+AppName :com.android.theme.color.space
+SourceAppDir :/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+
+AppName :com.android.internal.systemui.navbar.threebutton
+SourceAppDir :/system/framework/framework-res.apk
+
+AppName :android
+SourceAppDir :/product/priv-app/Contacts/Contacts.apk
+
+AppName :com.android.contacts
+SourceAppDir :/product/app/Camera2/Camera2.apk
+
+AppName :com.android.camera2
+SourceAppDir :/product/overlay/IconPackRoundedLauncher/IconPackRoundedLauncherOverlay.apk
+
+AppName :com.android.theme.icon_pack.rounded.launcher
+SourceAppDir :/data/app/~~tDqVIxOmlE1TFZz4SILJ6g==/com.MagicDate-ZpJGd-nF6A-bZi5Pj8taAg==/base.apk
+
+AppName :com.MagicDate
+SourceAppDir :/system/app/EasterEgg/EasterEgg.apk
+
+AppName :com.android.egg
+SourceAppDir :/system/priv-app/MtpService/MtpService.apk
+
+AppName :com.android.mtp
+SourceAppDir :/system/app/NfcNci/NfcNci.apk
+
+AppName :com.android.nfc
+SourceAppDir :/system/priv-app/ONS/ONS.apk
+
+AppName :com.android.ons
+SourceAppDir :/system/app/Stk/Stk.apk
+
+AppName :com.android.stk
+SourceAppDir :/system_ext/priv-app/Launcher3QuickStep/Launcher3QuickStep.apk
+
+AppName :com.android.launcher3
+SourceAppDir :/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+
+AppName :com.android.backupconfirm
+SourceAppDir :/product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk
+
+AppName :com.android.internal.systemui.navbar.twobutton
+SourceAppDir :/system_ext/priv-app/Provision/Provision.apk
+
+AppName :com.android.provision
+SourceAppDir :/system/priv-app/StatementService/StatementService.apk
+
+AppName :com.android.statementservice
+SourceAppDir :/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk
+
+AppName :com.android.settings.intelligence
+SourceAppDir :/product/app/Calendar/Calendar.apk
+
+AppName :com.android.calendar
+SourceAppDir :/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk
+
+AppName :com.android.internal.systemui.navbar.gestural_extra_wide_back
+SourceAppDir :/system_ext/priv-app/EmulatorRadioConfig/EmulatorRadioConfig.apk
+
+AppName :com.android.emulator.radio.config
+SourceAppDir :/system/priv-app/SettingsProvider/SettingsProvider.apk
+
+AppName :com.android.providers.settings
+SourceAppDir :/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+
+AppName :com.android.sharedstoragebackup
+SourceAppDir :/system/app/PrintSpooler/PrintSpooler.apk
+
+AppName :com.android.printspooler
+SourceAppDir :/product/overlay/IconPackFilledSettings/IconPackFilledSettingsOverlay.apk
+
+AppName :com.android.theme.icon_pack.filled.settings
+SourceAppDir :/system/app/BasicDreams/BasicDreams.apk
+
+AppName :com.android.dreams.basic
+SourceAppDir :/product/overlay/SettingsProvider__auto_generated_rro_product.apk
+
+AppName :com.android.providers.settings.auto_generated_rro_product__
+SourceAppDir :/system/app/SecureElement/SecureElement.apk
+
+AppName :com.android.se
+SourceAppDir :/system/priv-app/InputDevices/InputDevices.apk
+
+AppName :com.android.inputdevices
+SourceAppDir :/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk
+
+AppName :com.android.bips
+SourceAppDir :/product/overlay/IconPackCircularSettings/IconPackCircularSettingsOverlay.apk
+
+AppName :com.android.theme.icon_pack.circular.settings
+SourceAppDir :/system/priv-app/MusicFX/MusicFX.apk
+
+AppName :com.android.musicfx
+SourceAppDir :/product/app/Maps/Maps.apk
+
+AppName :com.google.android.apps.maps
+SourceAppDir :/product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.emu01
+SourceAppDir :/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk
+
+AppName :com.android.cellbroadcastreceiver
+SourceAppDir :/data/app/~~B8v0rKq1X19pA9-RYytZig==/com.google.android.webview-dgIGc82psBbVl4bFk8hi-Q==/WebViewGoogle.apk
+
+AppName :com.google.android.webview
+SourceAppDir :/product/overlay/IconShapeTeardrop/IconShapeTeardropOverlay.apk
+
+AppName :com.android.theme.icon.teardrop
+SourceAppDir :/system/app/ExtShared/ExtShared.apk
+
+AppName :android.ext.shared
+SourceAppDir :/product/priv-app/OneTimeInitializer/OneTimeInitializer.apk
+
+AppName :com.android.onetimeinitializer
+SourceAppDir :/system/priv-app/Telecom/Telecom.apk
+
+AppName :com.android.server.telecom
+SourceAppDir :/apex/com.android.cellbroadcast/priv-app/CellBroadcastServiceModule/CellBroadcastServiceModule.apk
+
+AppName :com.android.cellbroadcastservice
+SourceAppDir :/product/overlay/IconPackRoundedThemePicker/IconPackRoundedThemePickerOverlay.apk
+
+AppName :com.android.theme.icon_pack.rounded.themepicker
+SourceAppDir :/system/app/KeyChain/KeyChain.apk
+
+AppName :com.android.keychain
+SourceAppDir :/system/app/RcsService/RcsService.apk
+
+AppName :com.android.service.ims
+SourceAppDir :/system/app/PrintRecommendationService/PrintRecommendationService.apk
+
+AppName :com.android.printservice.recommendation
+SourceAppDir :/product/priv-app/Dialer/Dialer.apk
+
+AppName :com.android.dialer
+SourceAppDir :/product/app/Gallery2/Gallery2.apk
+
+AppName :com.android.gallery3d
+SourceAppDir :/product/overlay/IconPackFilledSystemUI/IconPackFilledSystemUIOverlay.apk
+
+AppName :com.android.theme.icon_pack.filled.systemui
+SourceAppDir :/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+
+AppName :com.google.android.gms
+SourceAppDir :/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+
+AppName :com.google.android.gsf
+SourceAppDir :/apex/com.android.extservices/priv-app/ExtServices/ExtServices.apk
+
+AppName :android.ext.services
+SourceAppDir :/apex/com.android.wifi/priv-app/ServiceWifiResources/ServiceWifiResources.apk
+
+AppName :com.android.wifi.resources
+SourceAppDir :/system/priv-app/CallLogBackup/CallLogBackup.apk
+
+AppName :com.android.calllogbackup
+SourceAppDir :/system/app/SafetyRegulatoryInfo/SafetyRegulatoryInfo.apk
+
+AppName :com.android.safetyregulatoryinfo
+SourceAppDir :/system/priv-app/LocalTransport/LocalTransport.apk
+
+AppName :com.android.localtransport
+SourceAppDir :/system/priv-app/PackageInstaller/PackageInstaller.apk
+
+AppName :com.android.packageinstaller
+SourceAppDir :/system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+
+AppName :com.android.carrierdefaultapp
+SourceAppDir :/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk
+
+AppName :com.android.theme.font.notoserifsource
+SourceAppDir :/product/overlay/IconPackFilledAndroid/IconPackFilledAndroidOverlay.apk
+
+AppName :com.android.theme.icon_pack.filled.android
+SourceAppDir :/system/priv-app/ProxyHandler/ProxyHandler.apk
+
+AppName :com.android.proxyhandler
+SourceAppDir :/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk
+
+AppName :com.android.internal.display.cutout.emulation.waterfall
+SourceAppDir :/product/overlay/IconPackCircularSystemUI/IconPackCircularSystemUIOverlay.apk
+
+AppName :com.android.theme.icon_pack.circular.systemui
+SourceAppDir :/product/app/LatinIME/LatinIME.apk
+
+AppName :com.android.inputmethod.latin
+SourceAppDir :/product/app/Browser2/Browser2.apk
+
+AppName :org.chromium.webview_shell
+SourceAppDir :/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+
+AppName :com.android.managedprovisioning
+SourceAppDir :/apex/com.android.tethering/priv-app/Tethering/Tethering.apk
+
+AppName :com.android.networkstack.tethering
+SourceAppDir :/system/priv-app/SoundPicker/SoundPicker.apk
+
+AppName :com.android.soundpicker
+SourceAppDir :/product/app/PhotoTable/PhotoTable.apk
+
+AppName :com.android.dreams.phototable
+SourceAppDir :/product/overlay/CarrierConfig__auto_generated_rro_product.apk
+
+AppName :com.android.carrierconfig.auto_generated_rro_product__
+SourceAppDir :/system_ext/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk
+
+AppName :com.android.emulator.multidisplay
+SourceAppDir :/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+
+AppName :com.android.providers.partnerbookmarks
+SourceAppDir :/system/app/PresencePolling/PresencePolling.apk
+
+AppName :com.android.service.ims.presence
+SourceAppDir :/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+
+AppName :com.android.wallpaper.livepicker
+SourceAppDir :/apex/com.android.cellbroadcast/priv-app/CellBroadcastApp/CellBroadcastApp.apk
+
+AppName :com.android.cellbroadcastreceiver.module
+SourceAppDir :/system/priv-app/Tag/Tag.apk
+
+AppName :com.android.apps.tag
+SourceAppDir :/product/overlay/EmulatorGmsConfigOverlay.apk
+
+AppName :com.google.android.overlay.emulatorgmsconfig
+SourceAppDir :/product/overlay/IconShapeSquircle/IconShapeSquircleOverlay.apk
+
+AppName :com.android.theme.icon.squircle
+SourceAppDir :/system_ext/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk
+
+AppName :com.google.android.sdksetup
+SourceAppDir :/data/app/~~JwBmQCuZBO56xO2Cvnkb6w==/com.example.cyberapp-Ns2vpAuGZLTpuMP1SoNruA==/base.apk
+
+AppName :com.example.cyberapp
+SourceAppDir :/system_ext/priv-app/StorageManager/StorageManager.apk
+
+AppName :com.android.storagemanager
+SourceAppDir :/system/app/BookmarkProvider/BookmarkProvider.apk
+
+AppName :com.android.bookmarkprovider
+SourceAppDir :/system_ext/priv-app/Settings/Settings.apk
+
+AppName :com.android.settings
+SourceAppDir :/product/overlay/IconPackFilledLauncher/IconPackFilledLauncherOverlay.apk
+
+AppName :com.android.theme.icon_pack.filled.launcher
+SourceAppDir :/system/priv-app/NetworkPermissionConfig/NetworkPermissionConfig.apk
+
+AppName :com.android.networkstack.permissionconfig
+SourceAppDir :/apex/com.android.apex.cts.shim/app/CtsShim/CtsShim.apk
+
+AppName :com.android.cts.ctsshim
+SourceAppDir :/product/overlay/IconPackCircularLauncher/IconPackCircularLauncherOverlay.apk
+
+AppName :com.android.theme.icon_pack.circular.launcher
+SourceAppDir :/system/priv-app/VpnDialogs/VpnDialogs.apk
+
+AppName :com.android.vpndialogs
+SourceAppDir :/product/app/Music/Music.apk
+
+AppName :com.android.music
+SourceAppDir :/system/priv-app/TeleService/TeleService.apk
+
+AppName :com.android.phone
+SourceAppDir :/system/priv-app/Shell/Shell.apk
+
+AppName :com.android.shell
+SourceAppDir :/product/overlay/IconPackFilledThemePicker/IconPackFilledThemePickerOverlay.apk
+
+AppName :com.android.theme.icon_pack.filled.themepicker
+SourceAppDir :/system/app/WallpaperBackup/WallpaperBackup.apk
+
+AppName :com.android.wallpaperbackup
+SourceAppDir :/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk
+
+AppName :com.android.providers.blockednumber
+SourceAppDir :/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+
+AppName :com.android.providers.userdictionary
+SourceAppDir :/apex/com.android.mediaprovider/priv-app/MediaProvider/MediaProvider.apk
+
+AppName :com.android.providers.media.module
+SourceAppDir :/system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk
+
+AppName :com.android.emergency
+SourceAppDir :/apex/com.android.wifi/app/OsuLogin/OsuLogin.apk
+
+AppName :com.android.hotspot2.osulogin
+SourceAppDir :/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+
+AppName :com.android.internal.systemui.navbar.gestural
+SourceAppDir :/system/priv-app/FusedLocation/FusedLocation.apk
+
+AppName :com.android.location.fused
+SourceAppDir :/product/overlay/AccentColorOrchid/AccentColorOrchidOverlay.apk
+
+AppName :com.android.theme.color.orchid
+SourceAppDir :/product/app/DeskClock/DeskClock.apk
+
+AppName :com.android.deskclock
+SourceAppDir :/system_ext/priv-app/SystemUI/SystemUI.apk
+
+AppName :com.android.systemui
+SourceAppDir :/product/overlay/AccentColorPurple/AccentColorPurpleOverlay.apk
+
+AppName :com.android.theme.color.purple
+SourceAppDir :/system/app/BluetoothMidiService/BluetoothMidiService.apk
+
+AppName :com.android.bluetoothmidiservice
+SourceAppDir :/apex/com.android.permission/priv-app/PermissionController/PermissionController.apk
+
+AppName :com.android.permissioncontroller
+SourceAppDir :/system/app/Traceur/Traceur.apk
+
+AppName :com.android.traceur
+SourceAppDir :/product/overlay/framework-res__auto_generated_rro_product.apk
+
+AppName :android.auto_generated_rro_product__
+SourceAppDir :/system/app/Bluetooth/Bluetooth.apk
+
+AppName :com.android.bluetooth
+SourceAppDir :/product/app/WallpaperPicker/WallpaperPicker.apk
+
+AppName :com.android.wallpaperpicker
+SourceAppDir :/system/priv-app/ContactsProvider/ContactsProvider.apk
+
+AppName :com.android.providers.contacts
+SourceAppDir :/system/app/CaptivePortalLogin/CaptivePortalLogin.apk
+
+AppName :com.android.captiveportallogin
+SourceAppDir :/product/overlay/IconShapeRoundedRect/IconShapeRoundedRectOverlay.apk
+
+AppName :com.android.theme.icon.roundedrect
+SourceAppDir :/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk
+
+AppName :com.android.internal.systemui.navbar.gestural_narrow_back
+SourceAppDir :/product/overlay/IconPackRoundedSettings/IconPackRoundedSettingsOverlay.apk
+
+AppName :com.android.theme.icon_pack.rounded.settings
+SourceAppDir :/product/overlay/IconPackCircularAndroid/IconPackCircularAndroidOverlay.apk
+
+AppName :com.android.theme.icon_pack.circular.android
+List of all Phone numbers : 
+Number: 0541966475
+Number: 0540836842
+Number: 0526834782
+
+ List of all Phone Emails : 
+Email: albert&gmail.com
+Email: thommybiz@gmail.com
+Email: kingjames@gmail.com
+
